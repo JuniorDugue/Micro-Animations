@@ -1,1 +1,9 @@
-<svg id="shoppingCart" class="shoppingCart" width="49" height="43" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 14"><circle id="leftWheel" class="leftWheel" cx="8.5" cy="16.5" r="1.5"/><polygon id="basketPart" class="basketPart" points="14.84 10 16.81 3 0 3 2.94 10 14.84 10"/><polygon id="handleBar" class="handleBar" points="19.8 0 16.37 12 3.78 12 4.62 14 17.85 14 21.33 2 23.26 2 24 0 19.8 0"/><circle id="rightWheel" class="rightWheel" cx="13.5" cy="16.5" r="1.5"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="shoppingCart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<circle id="leftWheel" cx="8.5" cy="19.5" r="1.5"/>
+<polygon id="basketPart" points="14.8,13 16.8,6 0,6 2.9,13 "/>
+<polygon id="handleBar" points="19.8,3 16.4,15 3.8,15 4.6,17 17.9,17 21.3,5 23.3,5 24,3 "/>
+<circle id="rightWheel" cx="13.5" cy="19.5" r="1.5"/>
+</svg>

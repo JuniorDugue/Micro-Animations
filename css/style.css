@@ -27,6 +27,7 @@ body {
   display: flex;
   padding: 2rem;
   align-items: center;
+  cursor: pointer;
 }
 
 .home-title,
@@ -34,4 +35,8 @@ body {
 .shopping-title,
 .message-title {
   padding-left: 2rem;
+}
+
+.notification-svg, .messages-svg{
+  overflow: visible;
 }
