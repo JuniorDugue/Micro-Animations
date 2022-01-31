@@ -2,7 +2,7 @@
 
 A animated navigation link using the GSAP js library
 
-https://juniordugue.github.io/Animated-Form/
+https://juniordugue.github.io/Micro-Animations/
 
 ---
 
