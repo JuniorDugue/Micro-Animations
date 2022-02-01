@@ -20,7 +20,7 @@ https://juniordugue.github.io/Micro-Animations/
 
 ## Demo
 
-Insert gif or link to demo
+![App Screenshot](assets/demo.gif)
 
 ---
 
